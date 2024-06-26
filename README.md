@@ -1,0 +1,1 @@
+# SoC-Alphabet-recognition-through-gestures-deep-learning-and-image-processing
